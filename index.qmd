@@ -1,0 +1,13 @@
+---
+title: "{{< var department >}} {{< var number >}}: {{< var name >}}"
+subtitle: "UC Berkeley, {{< var semester >}}"
+listing:
+  - id: buttons
+    template: assets/buttons.ejs
+    contents: buttons.yml
+---
+
+::: {#buttons}
+:::
+
+Insert text about the class here.
