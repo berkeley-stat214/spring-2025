@@ -20,7 +20,7 @@ Office hours: <br>
 **GSI**: <a href="https://aagarwal1996.github.io/" target="_blank">Abhi Agarwal</a><br>
 `aa3797@berkeley.edu`<br>
 Office hours:<br>
-- Wednesday 8am-9:30am & 11:30am-1:00pm Evans 444
+- Wednesday 8am-9:30am & 11:30am-1:00pm, Evans 444
 :::
 
 ::: {.g-col-4}
