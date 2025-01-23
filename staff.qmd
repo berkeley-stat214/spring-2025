@@ -3,44 +3,38 @@ title: "Staff"
 ---
 
 
-Office hours are subject to change.
+Office hours are subject to change. All GSI hours start on Berkeley time.
 
 -----
 
 ::: {.grid}
 
 ::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu" target='_blank'>Person X</a><br>
-`x@berkeley.edu`<br>
+**Instructor:** <a href="https://binyu.stat.berkeley.edu/" target='_blank'>Bin Yu</a><br>
+`binyu@berkeley.edu`<br>
 Office hours: <br>
-- Thursday 3pm-5pm, Evans 309 <br>
-- Friday 2:00pm-4:30pm, Evans 309<br>
+- T/Th 11am-12pm, Evans 409
 :::
 
 ::: {.g-col-4}
-**GSI**: <a href="http://statistics.berkeley.edu" target="_blank">Person Y</a><br>
-`y@berkeley.edu`<br>
+**GSI**: <a href="https://aagarwal1996.github.io/" target="_blank">Abhi Agarwal</a><br>
+`aa3797@berkeley.edu`<br>
 Office hours:<br>
-- Monday 11am-12pm, Evans 432<br>
-- Tuesday 4pm-5pm, Evans 432<br>
-- Wednesday 2pm-3pm, Evans 432<br>
-- Friday 12pm-1pm, Evans 432
+- Wednesday 8am-9:30am & 11:30am-1:00pm Evans 444
 :::
 
 ::: {.g-col-4}
-**Tutor:** Person Z<br>
-`z@berkeley.edu`<br>
-Office hours: <br>
-- Wednesday 2:30pm - 4:30pm, Evans 434<br>
-- Sunday 2pm - 6pm, <a href="https://berkeley.zoom.us/j/99887452083?pwd=T1pXWC9HZFpTRHQzc1MrOElUakFUdz09">Zoom</a>
+**GSI**: <a href="https://austinvzane.com/" target="_blank">Austin Zane</a><br>
+`austin.zane@berkeley.edu`<br>
+Office hours:<br>
+- T/Th 1:30pm-3pm, Evans 444
 :::
 
 ::: {.g-col-4}
-**Tutor**: Person W<br>
-`w@berkeley.edu`<br>
-Office hours: <br>
-- Wednesday 10am-2pm, Evans 432<br>
-- Thursday 3-5pm, Evans 434
+**GSI**: <a href="https://www.zachrewolinski.com/" target="_blank">Zach Rewolinski</a><br>
+`zachrewolinski@berkeley.edu`<br>
+Office hours:<br>
+- Monday 12:30pm-2pm, Evans 444<br>
 :::
 
 :::
