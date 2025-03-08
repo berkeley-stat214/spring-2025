@@ -10,6 +10,9 @@ title: "Syllabus"
 - Lecture: T/Th 9:30am-11:00 am (Etcheverry 3106)<br>
 - Discussion: Friday 1-2 pm and 2-3 pm (Evans 334)<br>
 
+**Instructor**<br>
+- Bin Yu (binyu@berkeley.edu)
+
 **GSIs**<br>
 - Abhi Agarwal  (aa3797@berkeley.edu)<br>
 - Zach Rewolinski (zachrewolinski@berkeley.edu)<br>
