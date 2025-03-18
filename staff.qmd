@@ -13,7 +13,7 @@ Office hours are subject to change. All GSI hours start on Berkeley time.
 **Instructor:** <a href="https://binyu.stat.berkeley.edu/" target='_blank'>Bin Yu</a><br>
 `binyu@berkeley.edu`<br>
 Office hours: <br>
-- T/Th 11am-12pm, Evans 409
+- T/Th 8:45am-9:30am, V&A Cafe
 :::
 
 ::: {.g-col-4}
