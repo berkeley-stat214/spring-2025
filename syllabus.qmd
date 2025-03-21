@@ -36,7 +36,7 @@ This is an MA class in statistics. Students will be engaged in open-ended data p
 
 - 45% lab assignments<br>
   - Lab 1: Single-person project (20%)<br>
-  - Lab 2: Team project (25%))<br>
+  - Lab 2: Team project (25%)<br>
 - 10% reading assignments and selected problems from VDS book<br>
 - 2.5% class participation (lectures and discussions)<br>
 - 2.5% peer lab review performance<br>
