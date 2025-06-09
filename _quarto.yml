@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  google-analytics: "G-7YQ2SB485K"
   sidebar:
     style: docked
     title: "{{< var department-abbrev >}} {{< var number >}}"
